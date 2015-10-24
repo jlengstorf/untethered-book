@@ -68,11 +68,13 @@ If you were to spend half your year in low-cost cities like Chiang Mai and Pragu
 
 Using [Google Flights][3] to determine the cost of flights, and [Airbnb][4] to determine the average cost of renting a place for a month, this comes out to an average $1,033/month.
 
-![Over the course of a year, living expenses end up lower when traveling.](/images/lease-vs-airbnb-cost-of-living.jpg)
+![Over the course of a year, living expenses end up lower when traveling.](/images/lease-vs-travel.png)
 
 This is a savings of about $1,000 for the year when compared to my costs in Missoula.[^sf]
 
 And it's not just a $1,000 savings. **You're saving $1,000 by traveling to 6 countries instead of staying in Missoula, Montana.**[^mt]
+
+A> See how much you can save: [try the cost of living calculator](http://lengstorf.com/cost-of-living/)
 
 ## You'll Save on More Than Just Rent
 
