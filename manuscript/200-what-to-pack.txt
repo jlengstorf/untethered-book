@@ -1,0 +1,246 @@
+-# Part 2
+
+# The Traveler's Toolbox
+
+For the most part, life as a permanent traveler isn't much different from life in one place. You work, play, eat, and sleep — just like always. The differences are subtle for the most part: your lunch menu is in French; your walk to the coffee shop takes you past the Colosseum; when you meet a new friend for drinks, your local bar serves something you've never heard of before, like [*rakija*](http://www.likecroatia.com/nightlife/rakija-connecting-people/); instead of selling hot dogs and kebab, the street vendors sell candied squid... and kebab.
+
+However, some of the things that seem most normal are a little different when you no longer have a permanent home base. The things you own, what you wear, how you access your money, how you contact your family and friends — for the most part, they're the same, but they're just a *little* different. And that can trip you up at first.
+
+How do you deal with limiting your possessions to only what you can carry? What about international roaming on mobile phones? Is there a Wells Fargo branch in Barcelona?
+
+To help you avoid some of the gotchas that got me, this section goes through the gear I carry, the software I rely on, and the other tools and services I use to allow me to go about business as usual, even when "usual" is no longer an option.
+
+# What to Pack for a Carry-On Lifestyle {#packing}
+
+The biggest change between living in the same place and living in different cities around the world is in the way we have to look at our stuff.
+
+Every month or two, we'll need to carry everything we own to our next destination. This often includes the odd flight of stairs in a metro station, crumbling cobblestone streets, and miles upon miles of airport corridors.
+
+It changes the relationship we have with physical objects. Instead of, "How much do I like this?" we ask, "Do I like this enough to carry it through JFK?"
+
+In this section I'm going over my clothing and electronics. I'm leaving out the mundane stuff, like toiletries — just stick to the "only what I *really* need" rule[^one-quart] and you're probably fine.
+
+[^one-quart]:
+    Also, remember you only get a single one-quart bag or they'll take it away at security.
+
+## The Packing List, Part I: Luggage and Storage {#packing-luggage}
+
+The secret to excellent carry-on packing is to have excellent carry-on luggage. After a few poor decisions and a good amount of trial and error, I'm currently using this setup:
+
+- [Briggs & Riley Carry-On](http://amzn.to/1UU7HBp)
+- [Rudsak Leather Shoulder Bag](http://bit.ly/1W1Umtb)
+- [Eagle Creek Compression Sac](http://amzn.to/1UUviHC)
+- [Reusable Tote Bag](http://amzn.to/1UUbM8J)
+- [Eagle Creek Toiletry Kit](http://amzn.to/1UUbRcx)
+- [Plastic Soap Container](http://amzn.to/1OWWVZy)
+- [Small Zipper Pouch for Cables](http://amzn.to/1Lg4hbl)
+
+I used to try to look rugged with a big backpack, but I realized quickly that I'm willing to trade "rugged" for "not sweaty and miserable" in the airport. A wheeled carry-on is a must for me. I like the Briggs & Riley bag because it's got the right amount of storage and it feels sturdy.[^sturdy]
+
+[^sturdy]:
+    Nine months later, I can vouch for the sturdiness of the bag. It hasn't shown any sign of wear, despite being dragged through cobblestone streets, up and down metro station staircases, and shoved into lots of overhead bins that were barely big enough to hold it.
+
+I've always liked the messenger bag approach, but I gave it up for a [small travel backpack](http://amzn.to/10uwYxe) when I first started traveling. After about six months, I decided to go back to a leather messenger bag. It's not as ideal for carrying the bag long distances, but I rarely have to haul it more than a mile — so in this case I'm choosing form over function.
+
+Compression sacs are a huge space saver: put in your clothes, zip it, roll it to press the air out, and suddenly you're only using about half the space in your bag.
+
+A reusable tote is perfect for groceries, day trips, hikes, or anywhere I want to go but don't want to damage my leather bag. It's also good for laundry, and it rolls up to a pocket-sized ball.
+
+The rest of my storage stuff is pretty standard: plastic bags and TSA-approved containers for my toiletries, a small zippered pouch to keep cables and small electronics organized, and a way to store my soap — because I'm weird and I like to have my own soap instead of using whatever's at the apartment.
+
+## The Packing List, Part II: What to Wear {#packing-clothing}
+
+A carry-on suitcase will hold about six days' worth of clothing.[^dude] This means we need to prune our wardrobes down to just the essentials.
+
+(I can only speak from a men's perspective; for a woman's take on the subject, check out Marisa's [carry-on packing tips for women](https://medium.com/live-happy/oh-my-god-i-have-nothing-to-wear-dressing-for-extended-travel-60359781814d).)
+
+[^dude]:
+    I say this as a 5'10", 240lb dude. Your results may vary.
+
+The key to carry-on suitcase style is interoperability: each item of clothing should work with every other item in your bag. This way, you can ensure the maximum utility in each piece of clothing.[^dark]
+
+[^dark]:
+    You can also get dressed in the dark. Not that it's important — but you could totally do it.
+
+Here's what I pack:
+
+#### Clothing
+
+- [Uniqlo t-shirts (6)](http://bit.ly/1LWI3qH)
+- [AG pants (1 pair)](http://amzn.to/1ULdF7x)
+- [AG shorts (2 pair)](http://amzn.to/1KcGTqc)
+- [Diesel boxer briefs (6)](http://amzn.to/1NtofkJ)
+- [Timberland no-show socks (6)](http://amzn.to/1geGJXo)
+
+Simple, black t-shirts are easy to find, inexpensive, and they look nice. Plus, they don't stand out enough that someone would think, "Isn't that guy wearing the same clothes from yesterday?"
+
+I used to wear [American Apparel](http://amzn.to/1KcGKmq), which I liked, but they tended to pill up quickly, and cost twice as much as the [Uniqlo shirts](http://bit.ly/1LWI3qH).
+
+The way [AG Jeans](http://amzn.to/1ULdF7x) are cut seems to fit me perfectly, and I like the little bit of stretch in them. Dark gray pants work in both formal and casual settings, and they're lightweight enough that I don't feel like I'm going to die in warmer weather.
+
+#### Shoes
+
+- [Nike Free 5.0 (1 pair)](http://amzn.to/1Ntoso2)
+- [Vans Authentic (1 pair)](http://amzn.to/1geHb7Z)
+- [Reef flip flops (1 pair)](http://amzn.to/1geHi3o)
+
+I tried to ditch the Nikes, and — in a tragic string of poor decisions — I ended up purchasing and hating three other pairs of shoes. None of them were as comfortable as the Frees, or as versatile.
+
+The Vans Authentic are great because they're simple enough to go with shorts or swim trunks, but they can be dressed up enough to work with my sportcoat.
+
+I used to have Ariat work boots, but they took up a shitload of space. I miss those boots, though, and I think I'll *really* miss them the next time we end up somewhere chilly.
+
+#### Accessories
+
+- [Bonobos woven belt (1)](http://bit.ly/1Q6hgfa)
+- [Jack Spade watches (2)](http://amzn.to/1geHOi1)
+- [Citizen EcoDrive watch (1)](http://amzn.to/1geHXSu)
+- [Salt glasses (1 pair)](https://www.saltoptics.com/products/walter-matteashbrown/frames/668)
+- [Ray-Ban sunglasses (1 pair)](http://amzn.to/1geIsMs)
+- [Heaven Hill snapback cap (1)](https://instagram.com/p/16MD5FzKxN/)
+- [Shitty hat from a street stall (1)](https://instagram.com/p/542x9VzK8j/)
+
+My watches are an indulgence; I definitely *don't* need three of them. But since they don't take up much space, I try not to stress about it.
+
+Sunglasses and a hat are critical when you spend most of your time in hot climates. I feel like I look silly in all hats — plus a hat is bound to get sweaty when it's blisteringly hot outside — so I just grab cheap ones that I won't worry about when they get gross and/or fall apart.
+
+#### Outerwear
+
+- [Jack Spade cotton jacket (1)](http://www.jackspade.com/harrington-jacket/716453557274.html)
+- [By Robert James overcoat (1)](http://www.byrobertjames.com/collections/jackets)
+- [Giorgio Armani sport coat (1)](http://www.armani.com/us/emporioarmani/men/onlinestore/jackets)
+
+With as much time as I spend in warm climates, these coats often feel like dead weight. However, when they're needed, they feel like a lifesaver.
+
+The cotton jacket is perfect for cool weather and damp weather. The topcoat can handle pretty chilly weather (February in London was no problem) and I really love the way it looks — even though I rarely need it, it's hard to let it go.
+
+The sportcoat is very lightweight, so it serves as a way to dress up an outfit even in warm weather. Any time we go to a nice restaurant or I have a public speaking gig, I'm likely wearing this.
+
+#### Activewear
+
+- [Adidas swim trunks (1 pair)](http://amzn.to/1ULgplw)
+- [Nike workout shorts (1 pair)](http://amzn.to/1geLq3x)
+
+To save space, I wear my t-shirt from the day before[^smell-test] to the gym. The workout shorts can be washed in the sink and dried quickly.
+
+[^smell-test]:
+    Provided it passes the smell test, of course.
+
+### Consider Wearing a Uniform {#packing-uniform}
+
+One solution to the challenge of packing light is to simplify your wardrobe significantly.
+
+The best decision I made in preparation for my trip was to pick out a "uniform": a [basic outfit I wear every day](http://lengstorf.com/travel-essentials-uniform/).
+
+For me, this is a plain black t-shirt, dark pants or shorts, and casual shoes, plus basic accessories: a watch and a belt.
+
+I'm fashionable-ish, comfortable, and I never have to worry about whether I have something to wear: my uniform can be dressed up with a sport coat, or made incredibly casual with flip flops.
+
+A> Further reading: [*On Uniforms: Why I Wear the Same Outfit Every Day*](http://lengstorf.com/travel-essentials-uniform/)
+
+## The Packing List, Part III: Electronics {#packing-electronics}
+
+Similar to clothing, there's only so much extra space and weight you'll want to deal with for electronics. Sure, it's *possible* to get a custom [Pelican case](http://bit.ly/1MgUXp9) and lug around a ton of gear — but for me, there was more value in choosing only the things that *really* add value for my day-to-day life.
+
+Here's what's in my bag right now:
+
+#### Laptop Computer
+
+I've used a smaller computer, and while I loved the ability to easily put an 11" laptop on an airplane tray table, I found myself missing a little bit of screen real estate.
+
+The [15" MacBook Pro](http://amzn.to/1VRGz8G) has a large enough screen that I feel alright without a second monitor[^usb-monitor] — and it still fits (mostly) on a tray table.
+
+[^usb-monitor]:
+    I originally left the U.S. with an [ASUS MB168B+ USB-powered monitor](http://amzn.to/1yX0wx5), thinking I'd need the extra screen real estate. I ended up getting rid of it because I felt too awkward setting it up in public, and I didn't like rearranging my windows every time it was plugged in or unplugged.
+
+#### Unlocked Phone
+
+Having an unlocked phone is critical if you're moving between countries. In order to have data — y'know, maps and stuff — you'll need a SIM card from a local provider, and those will only work if your phone isn't locked to a network.
+
+When you're shopping for unlocked phones, make sure they'll work in the countries you plan to visit. I didn't want to do a ton of research, so I bought an [unlocked iPhone 6](http://amzn.to/1VRGzVX) because it works almost everywhere. I believe a lot of Samsung's Android phones (like the Galaxy series) also work pretty much everywhere, but make sure to double-check before buying one.
+
+If you've never looked at unlocked phones before, the sticker price might shock you. Just keep in mind that when you get a locked phone from Verizon or T-Mobile, the cost of the phone is typically subsidized by locking you into a 12-month contract. That's *way* more expensive than buying the phone outright.
+
+Plus, without a monthly phone bill, your costs will go way down. In Thailand, for example, $17 bought a SIM with 30 days of unlimited call, text, and data usage.[^compare]
+
+[^compare]:
+    Compared to $100/month or so to have data limits from Verizon and other U.S. providers, this made me pretty angry when I first realized I'd been grossly overcharged for phone services for *years* because I never thought to look into alternatives. Prepaid SIM all the way, baby.
+
+#### E-Reader
+
+I originally set out with an iPad, thinking I'd use it for casual browsing and watching movies in addition to reading. I realized pretty quickly that I *only* used the iPad for reading, and it hurt my eyes to read on its screen at night.
+
+Now that I've switched to the [Kindle Paperwhite](http://amzn.to/1UHu7Lj), I've noticed much less eye strain, and I haven't missed any iPad features at all.
+
+#### Bluetooth Speaker
+
+I almost constantly have some sort of music playing. While we cook breakfast, Marisa and I listen to podcasts. Getting ready for the day, we listen to music. Working, I typically use [focus@will](https://www.focusatwill.com/fwf/?rc=7287523) to keep me focused (and time my [working blocks](http://lengstorf.com/scheduling-maximum-productivity/)).
+
+Being able to listen to music without headphones (and without shitty, tinny-sounding laptop speakers) makes all the difference. The [Bose Mini SoundLink speaker](http://amzn.to/1UHuc1M) is the right balance of high-quality sound and small physical size, which makes it ideal for my bag.
+
+#### Headphones
+
+I have two sets of headphones because I think there's a huge difference between reasons to use headphones.
+
+For calls and video meetings, I like to wear plain old [Apple earbuds](http://amzn.to/1M1YKUj). The built-in mic is handy, and I like that they're not noise-canceling — when I try to talk while wearing noise-canceling headphones, I feel like I forget how to use an inside voice.
+
+But when I'm in a [focused work-block](http://lengstorf.com/scheduling-maximum-productivity/), I want to completely shut the world out and get things done. The [JBL Reflect Bluetooth earbuds](http://amzn.to/1UH03j0) are great for this.
+
+#### Miscellaneous Cables
+
+An [HDMI cable](http://amzn.to/1NtWetn) was a late addition, but I realized that most of the places we rent have TVs with HDMI inputs — this means when I want to watch Netflix, I don't have to watch on my laptop screen.
+
+The [3.5mm male to male](http://amzn.to/1NtWkBf) cable[^metric] doesn't see a lot of action, but when I rent a car I like to use the auxiliary input to play music from my phone through the car stereo.
+
+[^metric]:
+    1/8"-to-1/8" for the non-metric amongst us.
+
+#### USB Microphone
+
+I record [a podcast](http://www.2FTAT.com), and a high-quality microphone is a crucial component for making the end result sound less-than-terrible. I like the [AudioTechnica ATR2100-USB microphone](http://amzn.to/1gePPn1) because it's small, sounds great, and it works over USB, which saves me from carrying a mixer or additional cables.
+
+I sometimes use this mic for my calls, because the Apple headphone mic sometimes scratches against my beard, causing distracting noise. However, if you're not doing any recording, you can probably leave this out of your bag.
+
+#### Power Converters
+
+It's important to have a way to plug your electronics in when you arrive in a new country. Since there are multiple standards for outlet designs, voltages, and other *electrifying*[^cdj] inconsistencies in international power delivery, it's necessary to bring a [power converter](http://amzn.to/1KcNy3y).
+
+[^cdj]:
+    Look! Up in the sky! It's a groan. It's a pun. It's... **_Captain Dadjoke!_**
+
+Not all adapters are created equal, though: some will convert voltage, and others won't. Voltages will vary from country to country between 100–240V (usually). They also vary in frequency, delivering 50 or 60Hz.
+
+Now, you *can* check each device for its ratings[^power-brick] and make sure it can handle the current country's electrical setup. Or — if you're lazy like me — you can just get a tiny box to keep you from having to think about it.
+
+[^power-brick]:
+    Most electronics that have a power brick (like Apple's stuff — it's that white box where the cord attaches) will convert voltage on their own. But it's a good idea to just be prepared instead of having to check each item for what voltages it can handle.
+
+After I put together my travel kit, I found [this power converter](http://amzn.to/1KcNy3y), which would eliminate the need for an additional surge protector. I haven't tried it myself, but the reviews are solid.
+
+#### Surge Protector
+
+Because I don't own many electronics, I like to keep everything plugged into a central location. So I use my power converter to make an outlet usable, then plug in a [surge protector](http://amzn.to/1geQsNq) to give me 3 outlets plus a USB charging port.
+
+This setup does two things:
+
+1. It keeps all our stuff consolidated to one area, which makes it harder to lose things.
+2. It prevents us from sitting for hours and hours on our phones or computers, because we can't keep them plugged in while we use them.
+
+Both Marisa and I share the same three outlets, so we're mindful of how much time we're spending on our electronics. 
+
+## Remember: You Don't Need Much {#packing-minimalism}
+
+The temptation with travel is to bring a lot of stuff, "just in case".
+
+![This only makes sense if it's four people's luggage.](/images/too-much-luggage.jpg)
+
+Resist that urge. It's a trap that leads to sweating like a pig while dragging a hundred pounds of "just in case" up the out-of-service escalator in a Barcelona metro station.
+
+Most things we instinctively think to pack "just in case" go unused. And the things we end up needing aren't part of that "just in case" inventory, anyways.
+
+So figure out what you'll actually use every day. If you find yourself needing something you didn't pack, you can *almost always* buy what you need in the city you're staying in — and usually you can rent or borrow it.[^leave-behind]
+
+[^leave-behind]:
+    We have purchased and left behind all sorts of fun things: spatulas, buckets, dish soap, umbrellas. We've also successfully remained alive without needing any of the miscellaneous shit that used to weigh down our bags before.
+
+A> Further reading: [*Do More with Less: Drop Dead Physical & Psychological Weight*](http://lengstorf.com/do-more-with-less/)

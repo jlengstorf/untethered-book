@@ -1,0 +1,124 @@
+-# Part 4
+
+# Travel as a Savings Plan
+
+If you needed to cut your expenses by, say, about a thousand dollars each year, how would you go about it?
+
+Most people start by cutting back on going out to eat, avoiding online shopping, or creating a stringent budget to control expenses.
+
+But it turns out there’s a much easier way to cut your expenses by 10% or more: *start traveling the world*.
+
+## Living Abroad Is Cheaper than a Lease
+
+To understand why it's cheaper to live abroad, let's do some quick math.[^math]
+
+Start by making a list of all the bills you pay that are related to your living arrangement.
+
+As an example, when I lived in Missoula, Montana — which has a pretty low cost of living — my monthly bills looked like this:
+
+1.  Rent: $675
+2.  Electric: $100
+3.  Gas/Water/Sewer: $35
+4.  TV/Internet: $125
+5.  Renter's Insurance: $25
+6.  Biweekly Cleaning Service: $160[^cleaning]
+
+These are the bills that applied specifically to *living* somewhere. I'm not counting food, mobile phone, gym memberships, or other expenses that don't relate specifically to keeping myself indoors and comfortable.
+
+After combining all the additional bills associated with housing, it turns out I wasn't spending just $675 each month. **My actual cost of living was $1,120/month.**
+
+## The Secret of the Shared Economy
+
+When you decide to leave your lease behind and start traveling permanently, something magical happens: *all the extra bills go away.*
+
+![This apartment in Prague costs less than $700/month — wifi and utilities included.](/images/prague-airbnb.jpg)
+
+When you search for an apartment in Prague for a month on Airbnb, there are more than 300 listings you can rent for less than $1,120/month.
+
+"But wait," you say, "your rent was only $675 before — isn't that *way more expensive*?"
+
+It's not. It's *cheaper*,[^cheaper] and here's why:
+
+When you rent a place through the shared economy, all of the additional costs are included. Renting an apartment in Prague for $900/month *includes* electricity, internet, utilities, and sometimes even a regular cleaning.[^airbnbcleaning]
+
+So $900/month means $900/month. Not $900 *plus* a bunch of extra living costs. You end up with a $220/month savings over your rent-plus-other-living-costs price in Montana.
+
+## What If I Want to Stay in Singapore?
+
+Some places are extremely expensive to live. If you want to spend a while in Singapore, London, Sydney, or other cities with a high cost of living, it can be challenging to find something lower than $1,120/month. Unless you don't care if there's running water
+
+But here's the thing: **it can still be less expensive than your lease.**
+
+## Take Advantage of Averages
+
+For argument's sake, let's assume the place in London costs $2,000/month. You're out of pocket an additional $880 for the month over what you would have spent in your lease.
+
+You can make this affordable, though: by taking advantage of averages and renting less expensive places some of the time to offset higher costs in other locations.
+
+For example, you can spend as little as $300/month for a [place to live in Chiang Mai, Thailand][2] — this is a place with wifi, air conditioning, and all the amenities.
+
+If you were to spend half your year in low-cost cities like Chiang Mai and Prague, and the other half in more expensive cities, you might schedule something like this:
+
+* January and February in Chiang Mai.
+* March, April, and May in Barcelona.
+* June and July in Zagreb.
+* August in London.
+* September and October in Paris.
+* November and December in Ho Chi Minh City.
+
+Using [Google Flights][3] to determine the cost of flights, and [Airbnb][4] to determine the average cost of renting a place for a month, this comes out to an average $1,033/month.
+
+![Over the course of a year, living expenses end up lower when traveling.](/images/lease-vs-airbnb-cost-of-living.jpg)
+
+This is a savings of about $1,000 for the year when compared to my costs in Missoula.[^sf]
+
+And it's not just a $1,000 savings. **You're saving $1,000 by traveling to 6 countries instead of staying in Missoula, Montana.**[^mt]
+
+## You'll Save on More Than Just Rent
+
+In addition to the cost of a place to stay, keep in mind that *everything* is cheaper in a place like Thailand or Croatia.
+
+Here's an example: in Thailand, an average meal — something like panang curry with pork, or fried rice with chicken — will cost 60–90 baht, which is USD $1.68–2.52 using the exchange rate at the time of writing. Compare that to cheap food in the United States: it costs USD $5.69 for a Big Mac meal at McDonald's.
+
+That means you spend 2–3x less on every meal, even if you eat pretty cheaply.
+
+If you cook, the savings stay consistent. A dozen eggs is 40 baht (USD $1.12).
+
+So in addition to saving $1,000 each year on rent, you will also spend less on food, entertainment, and nearly everything else when you stay in less expensive countries.
+
+And we haven't even started talking about tax breaks yet — we'll get to that in the next chapter.
+
+The big takeaway here is that you can save an unbelievable amount of money by traveling full-time and taking advantage of less expensive areas.
+
+## You Can Save Tons of Money by Traveling the World
+
+It sounds completely counterintuitive, but it's true: you can save a *ton* of money by giving up your lease and renting apartments from sites like Airbnb around the world.
+
+To recap: once you've factored in the rest of the costs of living there, a $675/month lease in Montana is more expensive than renting apartments around the world for a year.
+
+This isn't the result of a complex scheme to save money. It doesn't even require making sacrifices. In fact, you can afford to get *fancier* places, eat out every meal, and go on tourist-bait adventures like feeding elephants and snorkeling, because average costs drop, and your money goes further.
+
+So remember: the next time you need to save up for a big expense, consider the traveling the world.
+
+[^math]:
+    Yay! Math!
+
+[^cleaning]:
+    I hate cleaning toilets and scrubbing floors, so I build the cost of a biweekly cleaning into my rent. If you haven't tried this, I can't recommend it highly enough — *especially if you live with someone else.*
+
+[^cheaper]:
+    Also worth noting are the more than 20 listings under $675/month.
+
+[^airbnbcleaning]:
+    If the cleaning isn't explicitly covered, you can usually negotiate a small additional fee to add that in before you finalize the stay.
+
+[^sf]:
+    The numbers get crazier: someone living in San Francisco, where the median rent is about $3,000, would save about $28,800 each year by traveling the world. That's fucking nuts.
+
+[^mt]:
+    Montana is wonderful. . .for 3 months each year. The other 9 are something [like this][5].
+
+ [2]: https://nomadlist.com/chiang-mai-thailand
+ [3]: https://www.google.com/flights/
+ [4]: https://www.airbnb.com/c/jlengstorf
+ [5]: http://i.imgur.com/iexMg46.jpg

@@ -1,0 +1,76 @@
+# Keeping in Touch While Abroad {#communication}
+
+As we get ready to leave the country, it's a good idea to figure out how to keep in touch with people without paying a fortune for international calling.
+
+While we're at it, we should figure out how to get a local number and access to wireless data.
+
+## Keep a U.S. Phone Number Worldwide {#communication-us-number}
+
+The first challenge I found myself up against was tricky: **how could my friends and family get in touch with me using a local U.S. number while I was outside the country?**
+
+My mom can barely handle texting, so I couldn't just tell her to download a messaging app.[^mom-tech] Besides, my friends don't all agree on which app to use. Some prefer WhatsApp; others use Snapchat; and then there's the Facebook Messenger crowd. And I'm usually woefully unaware of which apps are trendy; there are probably lots more that I've never heard of.
+
+[^mom-tech]:
+    Asking my mom to do anything new with technology only ever ends with her in tears and me receiving a call from my very angry father.
+
+I've resisted messaging apps[^whatsapp] because I prefer to do all my communication in one place: calls and texts. I don't like having lots of notifications active on my phone, so having a half-dozen apps was less-than-ideal.
+
+[^whatsapp]:
+    I gave in and installed WhatsApp, which has been useful when we meet travelers who don't have local SIMs.
+
+At first, I thought Google Voice would be the perfect solution: it allows for voice and texting (including MMS), and I'd be able to keep a U.S. number while abroad. Perfect!
+
+Except I can't forward Google Voice calls to a foreign number — this means my Thai SIM card can't get a call from Google Voice.
+
+Then I looked at Skype numbers. These were promising: I could forward calls to my Skype number to a foreign number.
+
+Except Skype numbers don't support texting.
+
+So — because having two numbers seemed like a giant pain in my ass — I worked up a complex solution to what should have been a simple problem:
+
+1. Get a Google Voice number — this is what I give to my friends and family to call and text.
+2. Get a Skype Number and set the Google Voice number to forward to it.
+3. Set the Skype Number to forward to my local SIM's number.
+
+This is complicated, but it's the only way I could find to get a U.S.-based number to function like a normal mobile number would: allowing me to receive calls *and* texts to the same place without spending a small fortune.
+
+**Full write-up: [Travel Essentials: How to Set Up a Mobile Phone Abroad](http://lengstorf.com/how-to-mobile-phone-abroad/)**
+
+## How to Get Free International Calling and Texting {#communication-international}
+
+At first, I worried that I would have to choose between free[^free] calling within the country where I was staying, or free calling to the U.S.
+
+[^free]:
+    What I mean by "free" is "not charged at insane per-minute prices".
+
+After a little digging, though, I realized I could have my cake and eat it, too. **Using [Google Hangouts](https://hangouts.google.com/), I could make free calls using wifi or mobile data to the U.S., and the caller ID would show my U.S.-based number.**
+
+I could also send text messages (both SMS and MMS) on my phone.
+
+It does require an extra app on my phone, but it doesn't require any of my friends to do extra work to keep in touch with me.
+
+As far as my friends and family back in the States are concerned, nothing has changed about the way we communicate. I gave them my new Google Voice number, and no matter who dials, **no one has to worry about paying extra for the call.**
+
+## Get a Local Number for the Country You're In {#communication-local}
+
+Having a local number is really helpful when you want to make a reservation, book a tour, rent a car, or check the hours of a business. It's also good as a fallback for staying in touch with travel companions in case the network is too slow to send a message using data.
+
+To get one, you'll need a local SIM card and an unlocked phone to plug it into.
+
+A> A SIM card is a small chip that is inserted into your phone that allows it to connect to a given network. For most locked phones, you'll never see the SIM or hear any mention of it, which is why I'd never heard of them until a few months before I left the country. When you start using prepaid phones, each new country will require a new SIM card to access local mobile provider networks. Fortunately, they're easy to find: they're available at most corner stores, and there are small stores set up in most metropolitan areas that can sell you a SIM and activate it on the spot.
+
+When I needed to call or text locally, I would use my local SIM — which just meant calling with the normal Phone and Messages apps on my iPhone.
+
+## Use Free Video Calling Apps to Connect {#communication-video}
+
+A standard complaint among people who travel long-term is that it gets lonely.
+
+Not lonely in the traditional sense: you're surrounded by people. It's lonely in the sense that you're far away from anyone that you feel *close* to. And the odd phone call just doesn't seem to cut down on the isolation.
+
+However, video calls seem to go a bit further toward creating a connection. Sure, nothing beats sitting down for a drink with a good friend, but seeing your friend on camera beats the hell out of sitting on your couch staring at a wall while you talk to them.
+
+There are a ton of great options that offer a free way to connect with people on a video call.
+
+If you're talking with a more tech-savvy friend, my favorite option is [Talky](https://talky.io/), which is a free, browser-based video chat.
+
+Other options exist, but they require app downloads and/or plugin installs. Some of the most popular are [Google Hangouts](https://hangouts.google.com/), [Skype](http://www.skype.com/en/), and [FaceTime](http://www.apple.com/mac/facetime/).
