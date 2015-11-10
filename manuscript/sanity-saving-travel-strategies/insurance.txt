@@ -53,7 +53,7 @@ What I'm currently using is [1Password](http://bit.ly/1Pbi7eg), which is fantast
 [^spy-movie]:
     Tools like 1Password have ruined the spy movie genre for future generations:
 
-    The hero is tied to a chair. The villain weilds some horrible instrument of pain. In an ominous accent, he growls, "Tell me ze password, Mr. Bond."
+    The hero is tied to a chair. The villain wields some horrible instrument of pain. In an ominous accent, he growls, "Tell me ze password, Mr. Bond."
 
     And the hero will say, "I can't. It was created by my password manager."
 
