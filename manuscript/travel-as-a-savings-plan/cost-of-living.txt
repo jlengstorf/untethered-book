@@ -6,7 +6,9 @@ If you needed to cut your expenses by, say, about a thousand dollars each year, 
 
 Most people start by cutting back on going out to eat, avoiding online shopping, or creating a stringent budget to control expenses.
 
-But it turns out there’s a much easier way to cut your expenses by 10% or more: *start traveling the world*.
+But if your situation allows you to earn your living from home (or wherever you have a laptop), it turns out there’s a much easier way to cut your expenses by 10% or more: *start traveling the world*.
+
+A> Further reading: [*Ditch the Desk Job: How to Become Location-Independent*](http://lengstorf.com/how-to-become-location-independent/)
 
 ## Living Abroad Is Cheaper than a Lease
 
@@ -45,19 +47,19 @@ So $900/month means $900/month. Not $900 *plus* a bunch of extra living costs. Y
 
 ## What If I Want to Stay in Singapore?
 
-Some places are extremely expensive to live. If you want to spend a while in Singapore, London, Sydney, or other cities with a high cost of living, it can be challenging to find something lower than $1,120/month. Unless you don't care if there's running water
+Some places are extremely expensive to live. If you want to spend a while in Singapore, London, Sydney, or other cities with a high cost of living, it can be challenging to find a place that costs less than $1,120/month without roommates or staying in a location that's way outside the parts of the city you'll likely want to hang out in..
 
-But here's the thing: **it can still be less expensive than your lease.**
+But here's the thing: **by taking advantage of average costs, even London can be less expensive than your lease.**
 
 ## Take Advantage of Averages
 
-For argument's sake, let's assume the place in London costs $2,000/month. You're out of pocket an additional $880 for the month over what you would have spent in your lease.
+For argument's sake, let's assume a place in London costs $2,000/month. You're out of pocket an additional $880 for the month over what you would have spent in your lease.
 
 You can make this affordable, though: by taking advantage of averages and renting less expensive places some of the time to offset higher costs in other locations.
 
 For example, you can spend as little as $300/month for a [place to live in Chiang Mai, Thailand][2] — this is a place with wifi, air conditioning, and all the amenities.
 
-If you were to spend half your year in low-cost cities like Chiang Mai and Prague, and the other half in more expensive cities, you might schedule something like this:
+If you were to spend half your year in less expensive cities like Chiang Mai and Prague, and the other half in more expensive cities, you might schedule something like this:
 
 * January and February in Chiang Mai.
 * March, April, and May in Barcelona.
@@ -84,7 +86,7 @@ Here's an example: in Thailand, an average meal — something like panang curry 
 
 That means you spend 2–3x less on every meal, even if you eat pretty cheaply.
 
-If you cook, the savings stay consistent. A dozen eggs is 40 baht (USD $1.12).
+When you cook, the savings are still there: a dozen eggs is 40 baht (USD $1.12).
 
 So in addition to saving $1,000 each year on rent, you will also spend less on food, entertainment, and nearly everything else when you stay in less expensive countries.
 
@@ -98,7 +100,7 @@ It sounds completely counterintuitive, but it's true: you can save a *ton* of mo
 
 To recap: once you've factored in the rest of the costs of living there, a $675/month lease in Montana is more expensive than renting apartments around the world for a year.
 
-This isn't the result of a complex scheme to save money. It doesn't even require making sacrifices. In fact, you can afford to get *fancier* places, eat out every meal, and go on tourist-bait adventures like feeding elephants and snorkeling, because average costs drop, and your money goes further.
+This isn't the result of a complex scheme to save money. It doesn't even require making sacrifices. In fact, while traveling you can afford to get *fancier* places, eat out every meal, and go on tourist-bait adventures like feeding elephants and snorkeling, because average costs drop, and your money goes further.
 
 So remember: the next time you need to save up for a big expense, consider the traveling the world.
 
@@ -112,7 +114,7 @@ So remember: the next time you need to save up for a big expense, consider the t
     Also worth noting are the more than 20 listings under $675/month.
 
 [^airbnbcleaning]:
-    If the cleaning isn't explicitly covered, you can usually negotiate a small additional fee to add that in before you finalize the stay.
+    If the cleaning isn't explicitly covered, you can usually negotiate regular cleanings for a small additional fee if you ask.
 
 [^sf]:
     The numbers get crazier: someone living in San Francisco, where the median rent is about $3,000, would save about $28,800 each year by traveling the world. That's fucking nuts.

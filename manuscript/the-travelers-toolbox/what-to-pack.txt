@@ -2,7 +2,10 @@
 
 # The Traveler's Toolbox
 
-For the most part, life as a permanent traveler isn't much different from life in one place. You work, play, eat, and sleep — just like always. The differences are subtle for the most part: your lunch menu is in French; your walk to the coffee shop takes you past the Colosseum; when you meet a new friend for drinks, your local bar serves something you've never heard of before, like [*rakija*](http://www.likecroatia.com/nightlife/rakija-connecting-people/); instead of selling hot dogs and kebab, the street vendors sell candied squid... and kebab.
+For the most part, life as a permanent traveler isn't much different from life in one place. You work, play, eat, and sleep — just like always. The differences are subtle for the most part: your lunch menu is in French; your walk to the coffee shop takes you past the Colosseum; when you meet a new friend for drinks, your local bar serves something you've never heard of before, like [*rakija*](http://www.likecroatia.com/nightlife/rakija-connecting-people/); instead of selling hot dogs and kebab, the street vendors sell candied squid... and kebab.[^kebab]
+
+[^kebab]:
+    Those glorious Turkish cones of spinning meat have made their way to every corner of the globe, apparently.
 
 However, some of the things that seem most normal are a little different when you no longer have a permanent home base. The things you own, what you wear, how you access your money, how you contact your family and friends — for the most part, they're the same, but they're just a *little* different. And that can trip you up at first.
 
@@ -14,14 +17,14 @@ To help you avoid some of the gotchas that got me, this section goes through the
 
 The biggest change between living in the same place and living in different cities around the world is in the way we have to look at our stuff.
 
-Every month or two, we'll need to carry everything we own to our next destination. This often includes the odd flight of stairs in a metro station, crumbling cobblestone streets, and miles upon miles of airport corridors.
+Every month or two, it becomes necessary to carry everything we own to our next destination. This often includes the odd flight of stairs in a metro station, crumbling cobblestone streets, and miles upon miles of airport corridors.
 
-It changes the relationship we have with physical objects. Instead of, "How much do I like this?" we ask, "Do I like this enough to carry it through JFK?"
+It changes the relationship we have with physical objects. Instead of, "How much do I like this?" we need to ask, "Do I like this enough to carry it through JFK?"
 
 In this section I'm going over my clothing and electronics. I'm leaving out the mundane stuff, like toiletries — just stick to the "only what I *really* need" rule[^one-quart] and you're probably fine.
 
 [^one-quart]:
-    Also, remember you only get a single one-quart bag or they'll take it away at security.
+    Also, remember you only get a single one-quart bag full of gels and liquids or they'll take it away at security. Almost all toiletries can be purchased everywhere in the world, so don't worry about bringing extra toothpaste and shampoo.
 
 ## The Packing List, Part I: Luggage and Storage {#packing-luggage}
 
@@ -38,7 +41,7 @@ The secret to excellent carry-on packing is to have excellent carry-on luggage. 
 I used to try to look rugged with a big backpack, but I realized quickly that I'm willing to trade "rugged" for "not sweaty and miserable" in the airport. A wheeled carry-on is a must for me. I like the Briggs & Riley bag because it's got the right amount of storage and it feels sturdy.[^sturdy]
 
 [^sturdy]:
-    Nine months later, I can vouch for the sturdiness of the bag. It hasn't shown any sign of wear, despite being dragged through cobblestone streets, up and down metro station staircases, and shoved into lots of overhead bins that were barely big enough to hold it.
+    A year later, I can vouch for the sturdiness of the bag. It hasn't shown any sign of wear, despite being dragged through cobblestone streets, up and down metro station staircases, and shoved into lots of overhead bins that were barely big enough to hold it.
 
 I've always liked the messenger bag approach, but I gave it up for a [small travel backpack](http://amzn.to/10uwYxe) when I first started traveling. After about six months, I decided to go back to a leather messenger bag. It's not as ideal for carrying the bag long distances, but I rarely have to haul it more than a mile — so in this case I'm choosing form over function.
 
@@ -52,10 +55,10 @@ The rest of my storage stuff is pretty standard: plastic bags and TSA-approved c
 
 A carry-on suitcase will hold about six days' worth of clothing.[^dude] This means we need to prune our wardrobes down to just the essentials.
 
-(I can only speak from a men's perspective; for a woman's take on the subject, check out Marisa's [carry-on packing tips for women](https://medium.com/live-happy/oh-my-god-i-have-nothing-to-wear-dressing-for-extended-travel-60359781814d).)
+(I can only speak from a man's perspective; for a woman's take on the subject, check out Marisa's [carry-on packing tips for women](https://medium.com/live-happy/oh-my-god-i-have-nothing-to-wear-dressing-for-extended-travel-60359781814d).)
 
 [^dude]:
-    I say this as a 5'10", 240lb dude. Your results may vary.
+    I say this as a 5'10", 230-pound dude. Your results may vary.
 
 The key to carry-on suitcase style is interoperability: each item of clothing should work with every other item in your bag. This way, you can ensure the maximum utility in each piece of clothing.[^dark]
 
@@ -72,11 +75,13 @@ Here's what I pack:
 - [Diesel boxer briefs (6)](http://amzn.to/1NtofkJ)
 - [Timberland no-show socks (6)](http://amzn.to/1geGJXo)
 
-Simple, black t-shirts are easy to find, inexpensive, and they look nice. Plus, they don't stand out enough that someone would think, "Isn't that guy wearing the same clothes from yesterday?"
+Simple, black t-shirts are easy to find, inexpensive, and they look nice. Plus, they're basic enough that someone would think, "Isn't that guy wearing the same clothes from yesterday?"
 
-I used to wear [American Apparel](http://amzn.to/1KcGKmq), which I liked, but they tended to pill up quickly, and cost twice as much as the [Uniqlo shirts](http://bit.ly/1LWI3qH).
+I used to wear [American Apparel](http://amzn.to/1KcGKmq), which I liked, but they tended to pill up quickly, and cost twice as much as the [Uniqlo shirts](http://bit.ly/1LWI3qH). 
 
 The way [AG Jeans](http://amzn.to/1ULdF7x) are cut seems to fit me perfectly, and I like the little bit of stretch in them. Dark gray pants work in both formal and casual settings, and they're lightweight enough that I don't feel like I'm going to die in warmer weather.
+
+The point here, though, isn't to say that you should wear what I wear. It's more to suggest a simple wardrobe in which you have basic items that work interchangeably.
 
 #### Shoes
 
@@ -112,16 +117,16 @@ Sunglasses and a hat are critical when you spend most of your time in hot climat
 
 With as much time as I spend in warm climates, these coats often feel like dead weight. However, when they're needed, they feel like a lifesaver.
 
-The cotton jacket is perfect for cool weather and damp weather. The topcoat can handle pretty chilly weather (February in London was no problem) and I really love the way it looks — even though I rarely need it, it's hard to let it go.
+The cotton jacket is perfect for cool and damp weather. The topcoat can handle pretty chilly weather (February in London was no problem) and I really love the way it looks — even though I rarely need it, it's hard to let it go.
 
-The sportcoat is very lightweight, so it serves as a way to dress up an outfit even in warm weather. Any time we go to a nice restaurant or I have a public speaking gig, I'm likely wearing this.
+The sportcoat is very lightweight, so it serves as a way to dress up an outfit even in warm weather. Any time we go to a nice restaurant or I find myself at a professional event, I'm likely wearing this.
 
 #### Activewear
 
 - [Adidas swim trunks (1 pair)](http://amzn.to/1ULgplw)
 - [Nike workout shorts (1 pair)](http://amzn.to/1geLq3x)
 
-To save space, I wear my t-shirt from the day before[^smell-test] to the gym. The workout shorts can be washed in the sink and dried quickly.
+To save space and avoid tons of laundry, I wear my t-shirt from the day before[^smell-test] to the gym. The workout shorts can be washed in the sink and dried quickly.
 
 [^smell-test]:
     Provided it passes the smell test, of course.
@@ -157,20 +162,22 @@ The [15" MacBook Pro](http://amzn.to/1VRGz8G) has a large enough screen that I f
 
 Having an unlocked phone is critical if you're moving between countries. In order to have data — y'know, maps and stuff — you'll need a SIM card from a local provider, and those will only work if your phone isn't locked to a network.
 
-When you're shopping for unlocked phones, make sure they'll work in the countries you plan to visit. I didn't want to do a ton of research, so I bought an [unlocked iPhone 6](http://amzn.to/1VRGzVX) because it works almost everywhere. I believe a lot of Samsung's Android phones (like the Galaxy series) also work pretty much everywhere, but make sure to double-check before buying one.
+When you're shopping for unlocked phones, make sure they'll work in the countries you plan to visit. Some countries use CDMA, and others use GSM, and there's also some nuance to which GSM networks certain phones can pick up. It all seems pretty overwhelming.
 
-If you've never looked at unlocked phones before, the sticker price might shock you. Just keep in mind that when you get a locked phone from Verizon or T-Mobile, the cost of the phone is typically subsidized by locking you into a 12-month contract. That's *way* more expensive than buying the phone outright.
+To save myself a ton of hassle and research, I bought an [unlocked iPhone 6](http://amzn.to/1VRGzVX) because it will work almost everywhere. I believe a lot of Samsung's Android phones (like the Galaxy series) also work pretty much everywhere, but make sure to double-check before buying one.
 
-Plus, without a monthly phone bill, your costs will go way down. In Thailand, for example, $17 bought a SIM with 30 days of unlimited call, text, and data usage.[^compare]
+If you've never looked at unlocked phones before, the sticker price might shock you: a new iPhone costs upwards of $600 when you buy it unlocked and out of contract. But keep in mind that when you get a locked phone from Verizon or T-Mobile for $100, the cost of the phone is typically subsidized by locking you into a 12-month contract at $100 or more per month. That's *way* more expensive in the long run than buying the phone outright.
+
+Plus, without a monthly phone bill, your bills go down. In Thailand, for example, $17 bought a SIM with 30 days of unlimited calling, texting, and data.[^compare]
 
 [^compare]:
-    Compared to $100/month or so to have data limits from Verizon and other U.S. providers, this made me pretty angry when I first realized I'd been grossly overcharged for phone services for *years* because I never thought to look into alternatives. Prepaid SIM all the way, baby.
+    Compared to $100/month or so to have data limits from Verizon and other U.S. providers, this blew me away. Looking at it now, it really feels like mobile phone contracts are a scam.
 
 #### E-Reader
 
 I originally set out with an iPad, thinking I'd use it for casual browsing and watching movies in addition to reading. I realized pretty quickly that I *only* used the iPad for reading, and it hurt my eyes to read on its screen at night.
 
-Now that I've switched to the [Kindle Paperwhite](http://amzn.to/1UHu7Lj), I've noticed much less eye strain, and I haven't missed any iPad features at all.
+After a couple months, I switched to the [Kindle Paperwhite](http://amzn.to/1UHu7Lj), and I've noticed much less eye strain. I haven't missed any iPad features at all, because it turned out I wasn't using the iPad for anything but reading.
 
 #### Bluetooth Speaker
 
@@ -190,7 +197,7 @@ But when I'm in a [focused work-block](http://lengstorf.com/scheduling-maximum-p
 
 An [HDMI cable](http://amzn.to/1NtWetn) was a late addition, but I realized that most of the places we rent have TVs with HDMI inputs — this means when I want to watch Netflix, I don't have to watch on my laptop screen.
 
-The [3.5mm male to male](http://amzn.to/1NtWkBf) cable[^metric] doesn't see a lot of action, but when I rent a car I like to use the auxiliary input to play music from my phone through the car stereo.
+The [3.5mm male to male](http://amzn.to/1NtWkBf) cable[^metric] doesn't see a lot of action, but when I rent a car I like to use the auxiliary input to play music from my phone through the car stereo. It's tiny, so I can tuck it in a pocket without taking up much space.
 
 [^metric]:
     1/8"-to-1/8" for the non-metric amongst us.
@@ -206,7 +213,7 @@ I sometimes use this mic for my calls, because the Apple headphone mic sometimes
 It's important to have a way to plug your electronics in when you arrive in a new country. Since there are multiple standards for outlet designs, voltages, and other *electrifying*[^cdj] inconsistencies in international power delivery, it's necessary to bring a [power converter](http://amzn.to/1KcNy3y).
 
 [^cdj]:
-    Look! Up in the sky! It's a groan. It's a pun. It's... **_Captain Dadjoke!_**
+    Look! Up in the sky! It's a pun. It's a groan. It's... **_Captain Dadjoke!_**
 
 Not all adapters are created equal, though: some will convert voltage, and others won't. Voltages will vary from country to country between 100–240V (usually). They also vary in frequency, delivering 50 or 60Hz.
 
@@ -231,8 +238,6 @@ Both Marisa and I share the same three outlets, so we're mindful of how much tim
 ## Remember: You Don't Need Much {#packing-minimalism}
 
 The temptation with travel is to bring a lot of stuff, "just in case".
-
-![This only makes sense if it's four people's luggage.](/images/too-much-luggage.jpg)
 
 Resist that urge. It's a trap that leads to sweating like a pig while dragging a hundred pounds of "just in case" up the out-of-service escalator in a Barcelona metro station.
 

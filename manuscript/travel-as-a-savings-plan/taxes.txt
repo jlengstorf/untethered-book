@@ -4,7 +4,9 @@ When I first started researching long-term travel, taxes were the biggest, shini
 
 Holy shit, right?
 
-Now, it turns out that whatever I was reading was utter bullshit, but there *are* some big tax breaks available. If you're planning to spend at least 11 months outside the U.S. on your travels, this section is for you.
+Now, it turns out that whatever I was reading was utter bullshit. **For as long as you're a United States citizen, you will need to report your income to the IRS every year, and you will probably owe at least a little bit in taxes no matter where you live.** As far as I'm aware, short of renouncing your U.S. citizenship, there's no way to _completely_ avoid paying taxes as a U.S. citizen.
+
+However, there *are* some big tax breaks available. If you're planning to spend at least 11 months outside the U.S. on your travels, this section is for you.
 
 ## Get an Accountant {#taxes-accountant}
 
@@ -12,20 +14,20 @@ I'm not an accountant, and this isn't accounting advice. Double-check anything y
 
 Everything in this section is my own interpretation of tax law, which I ran by two accountants to make sure I'm not crazy. They both agreed that my interpretation is theoretically correct.
 
-Now, that being said, everyone's situation is unique, and things like property you own, which state you live in, and all sorts of details about your exact state of existence in the government's eyes can and probably will affect the accuracy of what I'm talking about here.
+But with that being said, everyone's situation is unique, and factors including the property you own, the state you live in, and all sorts of details about your particular situation can and probably will affect the accuracy of what I'm talking about here.
 
-So don't just take this at face value. Go to an accountant. Get real tax advice from a real tax professional. The internet is full of liars, and while I practice what I'm preaching here, I may be one of them.
+So don't just take this advice as a sure thing. Go to an accountant. **Get real tax advice from a real tax professional.** The world is full of liars, and while I practice what I'm preaching here, I may be one of them.
 
 ## See If You Qualify for the Foreign Earned Income Exclusion (FEIE) {#taxes-feie}
 
-This is the big break — if you qualify for it, you're able to exclude up to about $100,000 in income from federal income taxes.
+The [Foreign Earned Income Exclusion (FEIE)](http://1.usa.gov/1LBNgUS) is the big tax break — if you qualify for it, you're able to exclude up to about $100,000 in income from federal income taxes.
 
 That's almost $25,000 you *won't* pay in taxes if you qualify.
 
-This is all made legal under the [Foreign Earned Income Exclusion (FEIE)](http://1.usa.gov/1LBNgUS), which states that you qualify if:
+In order to qualify for the FEIE, you have to meet two simple requirements:
 
-1. You are outside the U.S. for a minimum 330 days in a 12-month period
-2. You don't have a home in the U.S. (e.g. an apartment standing vacant, a home you own without renters)
+1. You are outside the U.S. for a minimum 330 days in a 12-month period.
+2. You don't have a home in the U.S. (e.g. an apartment standing vacant or a home you own without renters).
 
 There's [more to it](http://1.usa.gov/1NHpqNu), but if you meet those requirements you're probably in good shape.
 
@@ -35,13 +37,13 @@ The tax home is pretty self-explanatory:
 
 > If you have neither a regular or main place of business nor a place where you regularly live, you are considered an itinerant and your tax home is wherever you work.
 > 
-> – *Excerpt from ["Tax Home in a Foreign Country"](http://1.usa.gov/1LBNPhF)*
+> – *Excerpt from ["Tax Home in a Foreign Country"](http://1.usa.gov/1LBNPhF)* on the IRS website
 
 As for foreign-earned income, the language isn't crystal clear, but it leans in favor of remote workers qualifying:
 
 > Foreign earned income is income you receive for performing personal services in a foreign country. [...] For example, income you receive for work done in France is income from a foreign source even if the income is paid directly to your bank account in the United States and your employer is located in New York City.
 > 
-> – *Excerpt from ["What Is Foreign Earned Income"](http://1.usa.gov/1LBNUln)*
+> – *Excerpt from ["What Is Foreign Earned Income"](http://1.usa.gov/1LBNUln)* on the IRS website
 
 So even if you're paid by a U.S. company into a U.S. bank account, the fact you're physically present in another country seems to qualify you for the exemption.
 
@@ -51,14 +53,11 @@ I'll have to wait until my taxes are filed and accepted before I'm fully convinc
 
 ## The FEIE Does NOT Exclude You from Self-Employment Tax {#taxes-self-employment}
 
-If you're an independent contractor, or if you own your business, keep in mind that the FEIE doesn't get you out of *all* taxes — just *income* tax.
+If you're an independent contractor, or if you own your business, keep in mind that the FEIE doesn't exclude you from *all* taxes — just *income* tax.
 
-So you still owe [self-employment tax](http://1.usa.gov/1LBOEXD) (which covers Social Security and Medicare). This is 15.3% of your income,[^irs] and you *will* have to pay it.
+So you still owe [self-employment tax](http://1.usa.gov/1LBOEXD) (which covers Social Security and Medicare). This is 15.3% of your income as of 2015, and you *will* have to pay it.
 
-[^irs]:
-    15.3% is the 2014 figure. I can't find any official mention of what the 2015 rate will be as of September 2015.
-
-You only pay this tax on the first $117,000 you make. I think you're supposed to send it in quarterly to avoid extra fees, but I'm not 100% sure on this. Check with your accountant.
+You pay self-employment tax on up to $118,500 of income. To avoid extra fees, send in quarterly payments. Check with your accountant to make sure you've got this set up properly.
 
 ## Save Your Tax Money, Just in Case {#taxes-savings}
 
@@ -66,23 +65,23 @@ I'm not a worrier. No one I know would describe me by saying, "Well, Jason's the
 
 But when it comes to large amounts of money, I'm a little gun-shy.
 
-I learned this the hard way: when I first started freelancing, I didn't have a good concept of steady cashflow, so when I landed my first large job, I didn't think to save it for hard times. What I *did* think about was impressing my new girlfriend, so I booked a trip to Hawaii that included a swanky hotel room and convertible rental.
+I learned this the hard way: when I first started freelancing, I didn't have a good concept of steady cashflow, so when I landed my first large job, I didn't think to save it for hard times. What I *did* think about was impressing a new girlfriend, so I booked a trip to Hawaii that included a swanky hotel room and convertible rental.
 
-Later, in the depths of a dry spell, I realized that the "feast or famine" mythos that's handed down from freelancer to freelancer is mostly self-inflicted.
+A few months later, in the depths of a dry spell, I realized that the "feast or famine" mythos that's handed down from freelancer to freelancer is mostly self-inflicted.
 
-So now, where there's up to $25K on the line, I'm not going to book any expensive trips using my tax savings.
+So now, where there's up to $25K on the line, I'm not going to book any expensive trips using my tax savings. At least not until I'm 100% sure that I get to keep them.
 
-Instead, I'm keeping it in an interest-bearing account that I don't touch except to put more money in. I keep 31% of my earnings in the account — which I'm actually nervous is a bit low.
+Instead, I'm keeping it in an interest-bearing account that I don't touch except to put more money in. I automatically save 31% of my earnings in the account — which I'm actually nervous is a bit low.
 
-I look at it this way: if something unexpected comes up and I end up back in the U.S. before December 31, 2015, my FEIE claim may not work out. And if it doesn't work out, I'm going to owe my full income taxes — which, if I hit the max, means I'll need to come up with $25,000.
+I look at it this way: if something unexpected happens and my FEIE claim doesn't work out, I'm going to owe my full income taxes — which, if I hit the maximum exclusion, could mean I'd need to come up with as much as $25,000.
 
 If that happens, I do *not* want to be stuck scrambling for jobs to dig myself out of that hole. And I certainly don't want to take out a loan to pay my taxes.
 
-So instead, the money will sit and collect interest until I'm sure that no one else can lay claim to it.
+So instead, the money will sit and collect a little bit of interest until I'm _absolutely sure_ that no one else can lay claim to it.
 
 I'd recommend you do the same. Think of it like building in a year-end bonus when your FEIE claim is accepted.
 
-Be safe. Don't take chances with the IRS. Tax code is tricky, and you can never be sure you got it right until you get confirmation from the IRS.
+Be safe. Don't take chances with the IRS. Tax code is tricky, and it's hard to be sure you got it right until you get confirmation from the IRS.
 
 ## Learn About Tax Requirements in Your State {#taxes-state}
 
@@ -92,22 +91,22 @@ Even if your FEIE claim goes through, some states may still expect income taxes.
 
 Oregon, where I lived for most of 2014, has a policy that effectively claims that you "live" in Oregon until you establish a permanent residence somewhere else. Which puts me in a weird place, because I technically don't have a permanent residence.
 
-So even with zero days spent in Oregon during 2015, they could potentially try to tax me as an Oregon resident.
+So even with no home in Oregon and zero days spent there during 2015, they could potentially try to tax me as an Oregon resident.
 
 This didn't sit well with me — it seems like they're playing dirty pool.
 
 So instead, I moved in with my parents.
 
-My parents live in Washington. So I brought them my box of legal documents I was hoping they'd keep safe for me. Then I got a Washington driver's license, registered to vote in Washington, and updated everything I have to my Washington address.
+My parents live in Washington. So I brought them a box of legal documents I to keep safe for me. Then I got a Washington driver's license, registered to vote in Washington, and updated all my various accounts to my Washington address.
 
 Logically, this all makes sense: if I'm going to be shipped back to the U.S. for any reason, I'd prefer that I showed up at my parents' house rather than at the apartment I no longer rent in Portland.
 
-I'm also filing a partial-year tax return for Washington and Oregon, to let Oregon know I have *for sure* moved out of the state permanently.
+I'm also filing a partial-year tax return in both Washington and Oregon to let Oregon know I have *for sure* moved out of the state permanently.
 
-So check with your accountant. Figure out how state taxes work where you live. And if you're in a state where they'll try to tax you even if you definitely don't live there or plan to return, see if you can become a resident of a [state that doesn't have income tax](http://intuit.me/1LBRJqA) before you leave.
+Check with your own accountant to figure out how state taxes work where you live. And if you're in a state where they'll try to tax you even if you definitely don't live there or plan to return, see if you can become a resident of a [state that doesn't have income tax](http://intuit.me/1LBRJqA) before you leave.
 
 ## Seriously: Talk to an Accountant {#taxes-accountant-freal}
 
-This money stuff is complex and confusing. Don't leave it up to chance. Go talk to an accountant, and give some serious thought to letting a professional handle it on your behalf.
+This money stuff is complex and confusing, and even though I've spent days researching it and speaking to professionals, it still makes me nervous. Please don't leave your financial future up to chance: go talk to a certified accountant, and give some serious thought to letting a professional handle your taxes for you.
 
-Remember: I'm just some guy on the internet, and I have no professional qualifications to tell you how to manage your taxes. **DO NOT use any of this information without clearing it with a tax professional first.**
+Remember: I'm just some dude, and I have no professional qualifications to tell you how to manage your taxes. **DO NOT use any of this information without clearing it with a tax professional first.**

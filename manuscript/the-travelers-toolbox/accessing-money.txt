@@ -1,30 +1,30 @@
 # How to Access Money Abroad Without Extra Fees {#money}
 
-When you leave the U.S., some of the ease of banking gets left behind. For example, you'll rarely find a branch you can walk into for help.
+When you leave the U.S., some of the ease of banking gets left behind. For example, you'll rarely find a local branch of your bank in a foreign country.
 
-So before you go, you'll want to make sure you can get to your money easily and — more importantly — without paying huge penalties for accessing your accounts outside the country.
+So before you go, you'll want to make sure you can get to your money easily, without having to show up somewhere in person, and — most importantly — without paying huge penalties for accessing your accounts outside the country.
 
 ## Make Sure You Have EMV-Capable Cards {#money-emv}
 
-Almost everywhere in the world except the United States[^chip-cards] is using [chip and PIN](https://en.wikipedia.org/wiki/EMV) (or EMV) for payments. This is because EMV is more secure and harder to forge.
+Almost everywhere in the world except the United States is using [chip and PIN](https://en.wikipedia.org/wiki/EMV) (or EMV) for payments.[^chip-cards] This is because EMV is more secure and harder to forge than the swipe and signature approach.
 
 [^chip-cards]:
     This is changing. U.S. card issuers announced a plan that includes shifting liability for non-EMV purchases as of [October, 2015](http://www.emv-connection.com/emv-migration-driven-by-payment-brand-milestones/), which should result in a mass migration of U.S. businesses to the new system.
 
-So the ol' swipe-and-sign method is unwieldy abroad. Some ATMs won't accept cards without chips. Many businesses won't be familiar with non-chip cards, and you may find yourself trying to explain how swiping works across dual barriers of culture and language, which... just call your credit and debit card issuers and ask for chip cards. Trust me.
+The traditional U.S. method for paying with a card is pretty painful abroad. Some ATMs won't accept cards without chips. Many businesses won't be familiar with non-chip cards, and you may find yourself trying to explain how swiping works across dual barriers of culture and language, which... just call your credit and debit card issuers and ask for chip cards. You don't need the heartburn.
 
-Most issuers are already sending chip cards, so if you call and ask you should have a replacement card[^replacements] within a week or two.
+Most issuers are already sending chip cards, so if you call and ask you should have a replacement card within a week or two.[^replacements]
 
 [^replacements]:
-    My card numbers didn't change, but the expiration dates did. This meant I didn't have to update most of my recurring payments and such.
+    When I replaced my cards, my card numbers didn't change. This meant I didn't have to update most of my recurring payments and stored payment methods for my various online accounts. The expiration dates did change, though, as well as the CVV codes. But overall, it was a pretty painless process.
 
 ## Learn About Foreign Transaction Fees {#money-extra-fees}
 
-I grew up in Montana, where it was common for high school seniors to take weekend trips across the Canadian border — the drinking age was 18, after all.
+I grew up in Montana, where it was common for high school seniors to take weekend trips across the Canadian border — the drinking age in Calgary was 18 back then.
 
 On one of these trips, my friend Phil used his debit card to pay for everything. A few days in, his card was declined. He did some mental math, felt like it had to be a mistake, and called his bank.
 
-Turns out his bank charged an extra fee for every transaction: the *higher* of $5 or 3% of the transaction. He'd paid something like $100[^hssd] in fees in just a couple days.
+Turns out his bank charged an extra fee for every transaction: the *higher* of $5 or 3% of the transaction. He'd paid something like $100 in fees[^hssd] in just a couple days.
 
 [^hssd]:
     Which in high school senior dollars brushes against the theoretical [limit of infinity](http://bit.ly/1EU0Mq0).
@@ -33,7 +33,7 @@ Don't be like Phil. Use a card that doesn't charge fees.
 
 ## Get Credit Cards Without Foreign Transaction Fees {#money-credit-cards}
 
-If used responsibly, credit cards are actually a great way to make money. My credit card companies pay me upwards of $35 each month just for using the cards.
+If used responsibly, credit cards are actually a great way to make money. My credit card companies pay me upwards of $35 each month just for using the cards, thanks to the rewards programs they offer and the fact I pay them off in full each month.
 
 But if I was paying foreign transaction fees, the rewards wouldn't be enough to cover it. So before I left, I switched to credit cards that met two goals:
 
@@ -62,7 +62,7 @@ In addition to no foreign transaction fees, it offers mileage bonuses, SkyMiles[
 
 Depending on your plans — basically, how much do you fly, and how much of that flying is done in the U.S. — this card may be worth the annual fee.
 
-For a full roundup, you can search for "credit cards with no foreign transaction fees", or check out [this article](http://bit.ly/1EU47FD) that lists some good options.
+For a full roundup of traveler-friendly credit cards, you can search for "credit cards with no foreign transaction fees" or check out [this article](http://bit.ly/1EU47FD) that lists some good options.
 
 ## Watch Out for Hidden Costs When Paying By Card {#money-hidden-costs}
 
@@ -87,11 +87,11 @@ After a little research, I settled on a [Charles Schwab checking account](http:/
 
 Schwab focuses on online-only banking, which means it's perfect for those of us who won't be near a physical branch. Mobile check deposits are painless, and their customer support has been top notch whenever I have questions.
 
-There are several options for fee-free banks in addition to Schwab. Other companies have posted [reviews](http://nerd.me/1M3N57u) and [roundups](http://bit.ly/1PlaVQ2) that offer additional information.
+There are several options for fee-free banks in addition to Schwab. For, none of the other options worked as well for long-term travelers, but other companies have posted [reviews](http://nerd.me/1M3N57u) and [roundups](http://bit.ly/1PlaVQ2) that offer additional information if you'd like to check out your options.
 
 ## Be Aware of ATM Skimming and Protect Yourself {#money-atm-skimming}
 
-Unfortunately, there's a fringe population of utter shitbags in the world. And because these shitbags exist, the rest of us need to be mindful of what's going on around us so we don't end up funding some shitbag's way of life.
+Unfortunately, there's a fringe population of utter shitbags in the world. And because these shitbags exist, the rest of us need to be mindful of what's going on around us so we don't end up inadvertently funding one of these shitbags' way of life.
 
 One brand of shitbag behavior to be aware of is called "ATM skimming" — in a nutshell, the shitbag places a small device over the top of the ATM's card reader that "skims" your card info, then uses a small camera to catch your PIN.
 
@@ -106,13 +106,13 @@ You can prevent this with a few simple precautions:
 There's no reason to be paranoid — this happens in the U.S., too — but be aware that it exists. Keep an eye on your accounts[^mint] to see if anything you don't recognize comes out, and set sane daily withdrawal limits ($500 or less from ATMs, for example) on your cards.
 
 [^mint]:
-    I use [Mint](http://bit.ly/1ilmKYZ) to monitor all my accounts in the same place. Once a day, I check my transactions and balances to make sure I've got a grip on where I stand financially.
+    I use [Mint](http://bit.ly/1ilmKYZ) to monitor all my accounts in the same place. Every few days I check my transactions and balances to make sure I've got a grip on where I stand financially.
 
-You can't guarantee no one will get their hands on your info, but you *can* guarantee that they can't clean you out in a single day with a couple simple steps. Again: better safe than sorry.
+You can't guarantee no one will get their hands on your info, but you *can* guarantee some asshat won't clean you out in a single day. Again: better safe than sorry.
 
 ## Use Apps to Send and Receive Money Free {#money-apps}
 
-Since I'm traveling with Marisa, we end up splitting a lot of our expenses. To make sure things even out, we occasionally need to send each other money.
+Since I'm traveling with a partner, we end up splitting a lot of our expenses. To make sure things even out, we occasionally need to send each other money.
 
 To avoid dealing with cash while also avoiding fees, we turned to apps that allow us to make transfers for free.
 

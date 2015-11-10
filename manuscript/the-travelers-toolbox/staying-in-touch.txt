@@ -1,53 +1,30 @@
 # Keeping in Touch While Abroad {#communication}
 
-As we get ready to leave the country, it's a good idea to figure out how to keep in touch with people without paying a fortune for international calling.
+As you get ready to leave the country, it's a good idea to figure out how to keep in touch with people without paying a fortune for international calling.
 
-While we're at it, we should figure out how to get a local number and access to wireless data.
+It's also not a bad idea to figure out how to get a local number and access to wireless data.
 
-## Keep a U.S. Phone Number Worldwide {#communication-us-number}
+## Keep a U.S. Phone Number and Get Free International Calling and Texting {#communication-us-number}
 
 The first challenge I found myself up against was tricky: **how could my friends and family get in touch with me using a local U.S. number while I was outside the country?**
 
 My mom can barely handle texting, so I couldn't just tell her to download a messaging app.[^mom-tech] Besides, my friends don't all agree on which app to use. Some prefer WhatsApp; others use Snapchat; and then there's the Facebook Messenger crowd. And I'm usually woefully unaware of which apps are trendy; there are probably lots more that I've never heard of.
 
 [^mom-tech]:
-    Asking my mom to do anything new with technology only ever ends with her in tears and me receiving a call from my very angry father.
+    Asking my mom to do anything new with technology only ever ends with her in tears and me receiving a call from my very angry father. I think I'm still in trouble from the Great iTunes Meltdown of 2007.
 
-I've resisted messaging apps[^whatsapp] because I prefer to do all my communication in one place: calls and texts. I don't like having lots of notifications active on my phone, so having a half-dozen apps was less-than-ideal.
+I've resisted messaging apps[^whatsapp] because I prefer to consolidate my communication into calls and texts. I don't like having lots of notifications active on my phone, so having a half-dozen apps was less-than-ideal.
 
 [^whatsapp]:
     I gave in and installed WhatsApp, which has been useful when we meet travelers who don't have local SIMs.
 
-At first, I thought Google Voice would be the perfect solution: it allows for voice and texting (including MMS), and I'd be able to keep a U.S. number while abroad. Perfect!
+Google Voice turned out to be the perfect solution: it allows for voice and texting (including MMS), and I'd be able to keep a U.S. number while abroad.
 
-Except I can't forward Google Voice calls to a foreign number — this means my Thai SIM card can't get a call from Google Voice.
+Google Voice won't forward calls to a foreign number, which means my Thai SIM card can't get a call from Google Voice. However, if I have local data through the SIM card, that doesn't matter: calls and texts work through the Google Hangouts app over data.
 
-Then I looked at Skype numbers. These were promising: I could forward calls to my Skype number to a foreign number.
+The initial setup between Google Voice and Hangouts requires toggling some settings if you're using a custom domain, but once it's set up, it's as simple as using the regular calling and texting features of any phone.
 
-Except Skype numbers don't support texting.
-
-So — because having two numbers seemed like a giant pain in my ass — I worked up a complex solution to what should have been a simple problem:
-
-1. Get a Google Voice number — this is what I give to my friends and family to call and text.
-2. Get a Skype Number and set the Google Voice number to forward to it.
-3. Set the Skype Number to forward to my local SIM's number.
-
-This is complicated, but it's the only way I could find to get a U.S.-based number to function like a normal mobile number would: allowing me to receive calls *and* texts to the same place without spending a small fortune.
-
-**Full write-up: [Travel Essentials: How to Set Up a Mobile Phone Abroad](http://lengstorf.com/how-to-mobile-phone-abroad/)**
-
-## How to Get Free International Calling and Texting {#communication-international}
-
-At first, I worried that I would have to choose between free[^free] calling within the country where I was staying, or free calling to the U.S.
-
-[^free]:
-    What I mean by "free" is "not charged at insane per-minute prices".
-
-After a little digging, though, I realized I could have my cake and eat it, too. **Using [Google Hangouts](https://hangouts.google.com/), I could make free calls using wifi or mobile data to the U.S., and the caller ID would show my U.S.-based number.**
-
-I could also send text messages (both SMS and MMS) on my phone.
-
-It does require an extra app on my phone, but it doesn't require any of my friends to do extra work to keep in touch with me.
+The end result is a U.S.-based number that reaches me anywhere in the world just like a normal mobile number would: allowing me to receive calls *and* texts to the same place without spending a small fortune.
 
 As far as my friends and family back in the States are concerned, nothing has changed about the way we communicate. I gave them my new Google Voice number, and no matter who dials, **no one has to worry about paying extra for the call.**
 
